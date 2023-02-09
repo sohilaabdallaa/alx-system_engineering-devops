@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 455 -R --reference=file
+chmod 555 -R --reference=file
